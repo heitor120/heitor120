@@ -24,14 +24,15 @@ When I'm not working with data, I enjoy being Entrepreneurial at heart. I also c
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualisation for my YouTube channel.]
+- **Project A:** Building a workforce performance dashboard using Power BI and SQL to track key operational metrics.  
+- **Project B:** Developing a process-optimisation workflow system, including documentation, reporting, and automation improvements.
+- **Content Creation:** Creating lifestyle and tech-focused content, including project breakdowns, tutorials, and behind-the-scenes videos for YouTube and TikTok.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+• Advanced SQL for analytics and data modelling
+• Power BI data modelling and DAX best practices
+• Agile project documentation and delivery workflows
 
 ## 🛠️ Technical Skillset
 
