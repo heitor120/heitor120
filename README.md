@@ -30,9 +30,9 @@ When I'm not working with data, I enjoy being Entrepreneurial at heart. I also c
 
 ## 🌱 Currently Learning 
 
-• Advanced SQL for analytics and data modelling
-• Power BI data modelling and DAX best practices
-• Agile project documentation and delivery workflows
+- Advanced SQL for analytics and data modelling.
+- Power BI data modelling and DAX best practices.
+- Agile project documentation and delivery workflows.
 
 ## 🛠️ Technical Skillset
 
